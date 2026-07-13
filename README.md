@@ -2,6 +2,10 @@
 
 A fish-based USB hub, designed with the help of Macondo Hack Club.
 
+![Thumbnail](Images/Thumbnail.png)
+
+![Backside](Images/Backside.png)
+
 *Features*
 
 * 1x upstream USB-C port
