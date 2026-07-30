@@ -1,6 +1,6 @@
 # Fishy-USB-Hub
 
-A fish-based USB hub, designed with the help of Macondo Hack Club.
+A USB Hub containing 1 upstream USB-C port, and 4 downstream ports, 2 USB-C and 2 USB-A. I made the PCB in the shape of a fish, and added screw holes so I have the option for a case in the future. Designed with the help of Macondo Hack Club.
 
 ![Thumbnail](Images/Thumbnail.png)
 
